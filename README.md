@@ -2,7 +2,7 @@
 
 ### C Kernel
 
-i686-elf kernel (32 bits)
+i686 kernel (32 bits)
 
 Specs:
 - gnu assembler
